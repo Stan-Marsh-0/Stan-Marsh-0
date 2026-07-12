@@ -1,8 +1,7 @@
-
-
 <p align="center">
-<img  alt="Screenshot_2026-07-12_6 23 32_AM-removebg-preview" src="https://github.com/user-attachments/assets/b36dda0e-fba4-481d-a589-acd5c1ca7dad" />
-
-
+  
+[Screen recording 2026-07-12 4.08.10 PM.webm](https://github.com/user-attachments/assets/20ad04d6-72a1-4895-957c-9647312a19a3)
 
 </p>
+
+
