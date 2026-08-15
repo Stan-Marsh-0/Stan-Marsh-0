@@ -1,7 +1,7 @@
+
 <p align="center">
   
-[Screen recording 2026-07-16 12.19.18 PM.webm](https://github.com/user-attachments/assets/db1b9319-7ea3-4a7d-b9d3-baf18fcd01bd)
-
+<img width="736" height="712" alt="aa814ef747cbeab360fb2339b1ad9d9d" src="https://github.com/user-attachments/assets/b22e4696-dd82-428f-9c9b-937a44cf2d01" />
 
 </p>
 
